@@ -4,12 +4,10 @@
     box-sizing: border-box;
 }
 
-
 img {
     max-width: 100%;
     max-height: 100%;
 }
-
 
 .navbar {
     position: fixed;
@@ -17,11 +15,8 @@ img {
     height: 50px;
     width: 100%;
     background-color:white;
-    z-index: 1  ;
-    
+    z-index: 1;
 }
-
-
 
 .lines-icon {
     height: 30%;
@@ -30,13 +25,11 @@ img {
     left: 15px;
     }
 
-
 .main-logo {
     height: 100%;
     position: relative;
     left: 30px;
 }
-
 
 .searchbar {
     height: 70%;
@@ -45,7 +38,6 @@ img {
     top: 15%;
     left: 340px;
 }
-
 
 .search-icon {
     height: 70%;
@@ -61,8 +53,6 @@ img {
     background-color:rgb(247, 240, 240);
     display:inline-flex;
 }   
-
-
 
 .video-frame {
     position: relative;
